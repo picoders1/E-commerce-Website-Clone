@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Chettan');
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	outline: none;
+	font-family: 'Baloo Chettan', cursive;
+}
+
+body{
+	background: url("C:/Users/Dell/Desktop/image_pi/b2.png") no-repeat center center;
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+}
+
+.wrapper{
+	color: #fff;
+	max-width: 900px;
+	width: 100%;
+	height: 100vh;
+	margin: 80px auto 0;
+	padding: 10px;
+}
+
+.wrapper h1{
+	font-size: 48px;
+	letter-spacing: 5px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.wrapper p{
+	text-align: center;
+}
+
+.wrapper .contactus{
+	margin: 50px 0 0;
+}
+
+.wrapper .contactus .input_wrapper{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 20px;
+}
+
+.wrapper .contactus .input_wrapper .input_item{
+	width: 48%;
+	position: relative;
+}
+
+.wrapper .contactus .input_item input[type="text"],
+.wrapper .contactus textarea{
+	width: 100%;
+	border: 0;
+	padding: 18px;
+	padding-left: 40px;
+	border-radius: 3px;
+}
+
+.wrapper .contactus .message_wrapper{
+	position: relative;
+}
+
+.wrapper .contactus .message_wrapper textarea{
+	height: 180px;
+	resize: none;
+}
+
+.wrapper .contactus .btn{
+	width: 48%;
+	background: #00aced;
+	margin: 20px auto 0;
+	text-align: center;
+	padding: 18px;
+	border-radius: 3px;
+}
+
+.wrapper .contactus .btn a{
+	color: #fff;
+	display: block;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+}
+
+.wrapper .contactus .fas{
+	position: absolute;
+	color: red;
+	top:  20px;
+	left: 15px;
+	color: #30333A;
+}
+
+::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: #598bac;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: #30333A;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: #30333A;
+}
+
+@media (max-width: 460px){
+	.wrapper{
+		margin: 0 auto;
+	}
+	.wrapper h1{
+		font-size: 32px;
+	}
+	.wrapper .contactus{
+		margin: 20px 0 0;
+	}
+	.wrapper .contactus .input_wrapper{
+		flex-direction: column;
+		margin-bottom: 0;
+	}
+	.wrapper .contactus .input_wrapper .input_item{
+		width: 100%;
+		margin-bottom: 0px;
+	}
+	.wrapper .contactus .input_item input[type="text"]{
+		margin-bottom: 15px;
+		width: 100%;
+	}	
+}
