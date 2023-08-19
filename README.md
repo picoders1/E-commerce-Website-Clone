@@ -84,4 +84,4 @@ Through an e-commerce website a business can process orders, accept payments, ma
 ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/318589e2-33ac-4057-9412-112fa62d1b5b)
 
 
-# ThankYou!!!
+# Thank You!!!
