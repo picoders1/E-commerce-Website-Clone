@@ -34,15 +34,15 @@ Through an e-commerce website a business can process orders, accept payments, ma
 
 # Snapshot of UI Implementation:
 
-# 1. Landing Page
+# 1. Starting Page
    
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/de726a7f-f134-4472-b75b-f55acdd76f78)
 
-# 2. Landing Page Bottom Part
+# 2. Starting Page Bottom Part
 
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/ccc4a754-5762-4b0a-be94-3c083fb10ab9)
 
-# 3. SignIn/SignUp Page
+# 3. SignIn/Login Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/f997a537-52f5-4659-b456-d620bc03fcfe)
 
@@ -76,7 +76,7 @@ Through an e-commerce website a business can process orders, accept payments, ma
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/0d465598-4ce2-40a7-851e-01a240b029f2)
 
 
-# Snapshot Illustrating Mobile and Tablet Responsive Design Implementation.
+# What it looks like in responsive mode
 
 11. SignIn/SignUp Responsive Design snap         -----------             12. Home Screen/Landing Page Responsive Design Snap
     
