@@ -1,4 +1,4 @@
-# E-commerce-Website-Clone
+# What is about in this project
 
 I have developed an eCommerce website using by HTML, CSS, BOOTSTRAP &amp; JAVASCRIPT. First of all, we have our landing page with banner section, some featured categories images, then some featured products with product price, image and rating. Then, there will be more latest products, and one offer section with exclusive product. After that there will be testimonials and top brands section. At the bottom of website we will make footer with 4 columns.  
 After that I have put a drop down menu on top right side corner for mobile screen and I have made this complete website design responsive for any such small screen devices. Then we have other pages like all products page, single product page, shopping cart page, login and registration page, Contact &amp; About us page.
@@ -17,7 +17,7 @@ A website that allows people to buy and sell physical goods, services and digita
 Through an e-commerce website a business can process orders, accept payments, manage shipping & logistics and provide customer services.
 
 
-# Key highlights of the website:
+# Parts of the website
 
 1. Online shopping website for retail sales direct to customers.
 2. Providing/participating in marketplace which process third-party business to consumer-to-consumer sales.
@@ -51,27 +51,23 @@ Through an e-commerce website a business can process orders, accept payments, ma
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/c688e3b9-eefe-4f2d-bdd3-41eb9a6d419b)
 
 # 5. Electronic Gadget Product Page
-  
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/3df3e258-83b4-4fb2-9093-38967bfcf39a)
-
-# 6. Electronic Gadget Product Page
-  
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/8ce2ef85-5d61-4abb-bc63-ac84d46ca075)
 
-# 7. About Us Page
+# 6. About Us Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/72e7a15d-a5d5-46d1-b042-60c0e3261ac1)
 
-# 8. Contact Page
+# 7. Contact Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/f713e86c-d7db-4f8c-9f73-2588d4baaef0)
 
-# 9. Product Buy Page
+# 8. Product Buy Page
     
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/b226cf4d-3e6e-4926-98a7-aa9cdb52d0cf)
 
 
-# 10. Add To Cart Page
+# 9. Add To Cart Page
    
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/0d465598-4ce2-40a7-851e-01a240b029f2)
 
@@ -83,5 +79,48 @@ Through an e-commerce website a business can process orders, accept payments, ma
 ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/e69f540e-7364-4b7e-b14e-72b092a6439f) -----------
 ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/318589e2-33ac-4057-9412-112fa62d1b5b)
 
+# What html and css is about
+## HTML and CSS Basics
+HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the building blocks of the web. Here’s a concise overview of each:
+
+HTML
+Defines the structure and content of a web page
+Uses tags (<> and </>) to wrap around content
+Tags come in two forms: opening tags (e.g., <p>) and closing tags (e.g., </p>)
+HTML provides basic structure, including:
+Headings (h1-h6)
+Paragraphs (p)
+Lists (ul, ol, li)
+Links (a)
+Images (img)
+Tables (table, tr, td)
+Forms (form, input, textarea, select)
+CSS
+Defines the visual styling and layout of a web page
+Uses selectors to target HTML elements and apply styles
+Properties specify the style values (e.g., color, font-size, padding)
+CSS is “cascading” because styles applied to parent elements can inherit to child elements
+CSS can control:
+Colors and backgrounds
+Fonts and typography
+Spacing and margins
+Positioning and layout
+Responsive design for different devices and screen sizes
+Key Concepts
+Semantic HTML: Using HTML tags that provide meaning to the structure of the page, rather than just presenting visual layout.
+CSS selectors: Using syntax to target specific HTML elements and apply styles (e.g., .header, #logo, h1).
+Cascading: Styles applied to parent elements can inherit to child elements, allowing for efficient and flexible styling.
+Box model: CSS boxes (content, padding, border, margin) that define the layout and spacing of elements.
+Best Practices
+Use semantic HTML to provide structure and meaning to your content.
+Keep CSS organized and modular using classes, IDs, and media queries.
+Use a preprocessor like Sass or Less to write more efficient and reusable CSS.
+Test and validate your HTML and CSS code using tools like the W3C HTML and CSS validators.
+Resources
+Codecademy’s HTML and CSS courses
+W3Schools’ HTML and CSS tutorials
+Mozilla Developer Network’s HTML and CSS documentation
+CSS-Tricks’ comprehensive CSS guide
+Remember, HTML and CSS are fundamental technologies for building the web. Mastering these skills will provide a solid foundation for your web development journey.
 
 # Thank You!!!
