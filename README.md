@@ -34,49 +34,49 @@ Through an e-commerce website a business can process orders, accept payments, ma
 
 ## Snapshot of UI Implementation:
 
-## 1. Landing Page
+### 1. Landing Page
    
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/de726a7f-f134-4472-b75b-f55acdd76f78)
 
-## 2. Landing Page Bottom Part
+### 2. Landing Page Bottom Part
 
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/ccc4a754-5762-4b0a-be94-3c083fb10ab9)
 
-## 3. SignIn/SignUp Page
+### 3. SignIn/SignUp Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/f997a537-52f5-4659-b456-d620bc03fcfe)
 
-## 4. Fashion Product Page
+### 4. Fashion Product Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/c688e3b9-eefe-4f2d-bdd3-41eb9a6d419b)
 
-## 5. Electronic Gadget Product Page
+### 5. Electronic Gadget Product Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/3df3e258-83b4-4fb2-9093-38967bfcf39a)
 
-## 6. Electronic Gadget Product Page
+### 6. Electronic Gadget Product Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/8ce2ef85-5d61-4abb-bc63-ac84d46ca075)
 
-## 7. About Us Page
+### 7. About Us Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/72e7a15d-a5d5-46d1-b042-60c0e3261ac1)
 
-## 8. Contact Page
+### 8. Contact Page
   
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/f713e86c-d7db-4f8c-9f73-2588d4baaef0)
 
-## 9. Product Buy Page
+### 9. Product Buy Page
     
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/b226cf4d-3e6e-4926-98a7-aa9cdb52d0cf)
 
 
-## 10. Add To Cart Page
+### 10. Add To Cart Page
    
    ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/0d465598-4ce2-40a7-851e-01a240b029f2)
 
 
-## Snapshot Illustrating Mobile and Tablet Responsive Design Implementation.
+### Snapshot Illustrating Mobile and Tablet Responsive Design Implementation.
 
 11. SignIn/SignUp Responsive Design snap         -----------             12. Home Screen/Landing Page Responsive Design Snap
     
