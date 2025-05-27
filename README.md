@@ -30,7 +30,7 @@ Through an e-commerce website a business can process orders, accept payments, ma
 8. After successful payment, The user gets the order confirmation details in their mail.
 
 
-## - Result & Outcome -- :
+## - Result & Outcome - :
 
 ## Snapshot of UI Implementation:
 
