@@ -78,7 +78,7 @@ Through an e-commerce website a business can process orders, accept payments, ma
 
 ### Snapshot Illustrating Mobile and Tablet Responsive Design Implementation.
 
-11. SignIn/SignUp Responsive Design snap         ---------             12. Home Screen/Landing Page Responsive Design Snap
+11. SignIn/SignUp Responsive Design snap         --------             12. Home Screen/Landing Page Responsive Design Snap
     
 ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/e69f540e-7364-4b7e-b14e-72b092a6439f) -----------
 ![image](https://github.com/picoders1/E-commerce-Website-Clone/assets/87698874/318589e2-33ac-4057-9412-112fa62d1b5b)
